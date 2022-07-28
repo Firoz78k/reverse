@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello faddu khan</h1>
+    
+    <script>
+
+let arr= ["firoz","farooq","vivek","emiway","pinky"];
+console.log(arr)
+let new_arr = arr.reverse();
+console.log(new_arr);
+    </script>
+</body>
+</html>
